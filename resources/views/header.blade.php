@@ -1,0 +1,1 @@
+<h1 class="text-center">House Rental Management System</h1>
